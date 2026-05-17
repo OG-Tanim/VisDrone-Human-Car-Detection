@@ -16,7 +16,7 @@ env/
 *.ipynb_checkpoints/
 
 # Model weights (large binaries, not tracked)
-weights/*.pt
+# weights/*.pt
 
 # Inference output
 runs/
